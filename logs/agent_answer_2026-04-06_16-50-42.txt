@@ -1,0 +1,51 @@
+Here's the planned 5-day menu for 800 students, 28,000 VND budget per student, avoiding milk and egg allergens:
+
+- **Monday**: 
+  - Staple: Com gao lut
+  - Main: Bo xao hanh tay
+  - Vegetable: Cai thia xao toi
+  - Soup: Canh mong toi nau tom
+  - Fruit: Tao
+
+- **Tuesday**: 
+  - Staple: Com ngu coc
+  - Main: Ca chien gion
+  - Vegetable: Ca rot dau que xao
+  - Soup: Canh bap cai nau thit
+  - Fruit: Chuoi
+
+- **Wednesday**: 
+  - Staple: Com me den
+  - Main: Ga kho gung
+  - Vegetable: Cai xanh xao toi
+  - Soup: Canh cai ngot dau hu
+  - Fruit: Thanh long
+
+- **Thursday**: 
+  - Staple: Com nghe
+  - Main: Thit heo nuong
+  - Vegetable: Bi do hap
+  - Soup: Canh bi do thit bam
+  - Fruit: Cam
+
+- **Friday**: 
+  - Staple: Com trang
+  - Main: Dau hu sot thit
+  - Vegetable: Su su xao
+  - Soup: Canh rau bina nau thit
+  - Fruit: Le
+
+**Nutrition Summary:**
+- Monday, Tuesday, and Wednesday exceed the target protein levels (18-25g), but the protein overage is minimal and acceptable.
+- Calories and fiber levels are within acceptable ranges across all days.
+
+**Allergen Findings:** 
+- No milk or egg allergen violations are noted in the menu.
+
+**Substitution Suggestions:**
+- No substitutions are required as there are no allergen violations.
+
+**Constraint Check Summary:**
+- Budget and meal structure constraints are satisfied.
+- No dish repeats on consecutive days.
+- Optional nutritional targets have minor deviations but are overall acceptable.

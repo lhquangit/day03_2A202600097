@@ -1,0 +1,20 @@
+Here is the 5-day menu planned for 800 students with a budget of 28,000 VND per student per day. The menu avoids milk and egg allergens, does not repeat dishes on consecutive days, and meets most constraints:
+- **Monday**: Brown Rice, Beef with Onion, Stir-fried Bok Choy with Garlic, Amaranth and Shrimp Soup, Apple.
+- **Tuesday**: Mixed Grain Rice, Crispy Fish Fillet, Stir-fried Carrot and Green Beans, Cabbage and Meat Soup, Banana.
+- **Wednesday**: Sesame Rice, Ginger Chicken, Stir-fried Mustard Greens with Garlic, Mustard Green and Tofu Soup, Dragon Fruit.
+- **Thursday**: Turmeric Rice, Grilled Pork, Steamed Pumpkin, Pumpkin with Minced Pork Soup, Orange.
+- **Friday**: White Rice, Tofu with Meat Sauce, Stir-fried Chayote, Spinach Soup, Pear.
+
+**Nutrition Summary**:
+- Monday: 625 Cal, 27.2g Protein, 9.3g Fiber
+- Tuesday: 641 Cal, 25.3g Protein, 9.4g Fiber
+- Wednesday: 598 Cal, 25.6g Protein, 8.6g Fiber
+- Thursday: 609 Cal, 24.8g Protein, 7.4g Fiber
+- Friday: 585 Cal, 22.7g Protein, 9.0g Fiber
+
+**Findings**:
+- No allergen violations related to milk or egg allergies.
+- Protein levels exceed target on Monday, Tuesday, and Wednesday.
+- Frying used on Tuesday.
+
+For improvements, consider replacing main dishes on high-protein days and revisiting the use of frying depending on school preferences. The menu is cost-effective and meets safety requirements.

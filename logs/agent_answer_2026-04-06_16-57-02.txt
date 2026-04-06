@@ -1,0 +1,47 @@
+The 5-day school lunch menu for 800 students is successfully planned within the budget of 28,000 VND per student per day. Here’s a detailed overview:
+
+### Weekly Menu
+- **Monday:**
+  - **Staple:** Com gao lut
+  - **Main:** Bo xao hanh tay
+  - **Vegetable:** Cai thia xao toi
+  - **Soup:** Canh mong toi nau tom
+  - **Fruit:** Tao
+- **Tuesday:**
+  - **Staple:** Com ngu coc
+  - **Main:** Ca chien gion
+  - **Vegetable:** Ca rot dau que xao
+  - **Soup:** Canh bap cai nau thit
+  - **Fruit:** Chuoi
+- **Wednesday:**
+  - **Staple:** Com me den
+  - **Main:** Ga kho gung
+  - **Vegetable:** Cai xanh xao toi
+  - **Soup:** Canh cai ngot dau hu
+  - **Fruit:** Thanh long
+- **Thursday:**
+  - **Staple:** Com nghe
+  - **Main:** Thit heo nuong
+  - **Vegetable:** Bi do hap
+  - **Soup:** Canh bi do thit bam
+  - **Fruit:** Cam
+- **Friday:**
+  - **Staple:** Com trang
+  - **Main:** Dau hu sot thit
+  - **Vegetable:** Su su xao
+  - **Soup:** Canh rau bina nau thit
+  - **Fruit:** Le
+
+### Nutrition Summary
+- **Monday:** 625 calories, 27.2g protein, 9.3g fiber
+- **Tuesday:** 641 calories, 25.3g protein, 9.4g fiber
+- **Wednesday:** 598 calories, 25.6g protein, 8.6g fiber
+- **Thursday:** 609 calories, 24.8g protein, 7.4g fiber
+- **Friday:** 585 calories, 22.7g protein, 9.0g fiber
+
+### Allergen and Constraints Summary
+- No allergen violations for milk and egg allergies.
+- The menu does not repeat dishes on consecutive days and meets the budget.
+- The protein nutritional target is exceeded on Monday, Tuesday, and Wednesday.
+
+Overall, while the protein target was not fully met on some days, all other constraints and allergen checks are satisfactorily adhered to, ensuring the menu is balanced and within budget.

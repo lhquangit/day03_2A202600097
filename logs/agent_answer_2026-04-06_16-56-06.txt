@@ -1,0 +1,51 @@
+Here's the final 5-day school lunch menu for 800 students within a budget of 28,000 VND/day/student:
+
+**Monday:**
+- Staple: Com gao lut (Brown rice)
+- Main: Bo xao hanh tay (Beef with onion)
+- Vegetable: Cai thia xao toi (Bok choy with garlic)
+- Soup: Canh mong toi nau tom (Amaranth with shrimp soup) [shellfish allergy]
+- Fruit: Tao (Apple)
+
+**Tuesday:**
+- Staple: Com ngu coc (Mixed grain rice)
+- Main: Ca chien gion (Crispy fish fillet) [fish, gluten allergy]
+- Vegetable: Ca rot dau que xao (Carrot and green beans stir-fry)
+- Soup: Canh bap cai nau thit (Cabbage and pork soup)
+- Fruit: Chuoi (Banana)
+
+**Wednesday:**
+- Staple: Com me den (Sesame rice) [sesame allergy]
+- Main: Ga kho gung (Ginger chicken)
+- Vegetable: Cai xanh xao toi (Mustard greens with garlic)
+- Soup: Canh cai ngot dau hu (Mustard green tofu soup) [soy allergy]
+- Fruit: Thanh long (Dragon fruit)
+
+**Thursday:**
+- Staple: Com nghe (Turmeric rice)
+- Main: Thit heo nuong (Grilled pork)
+- Vegetable: Bi do hap (Steamed pumpkin)
+- Soup: Canh bi do thit bam (Pumpkin and minced pork soup)
+- Fruit: Cam (Orange)
+
+**Friday:**
+- Staple: Com trang (White rice)
+- Main: Dau hu sot thit (Tofu in meat sauce) [soy allergy]
+- Vegetable: Su su xao (Stir-fried chayote)
+- Soup: Canh rau bina nau thit (Spinach and pork soup)
+- Fruit: Le (Pear)
+
+**Nutrition Summary:**
+- Protein slightly exceeded the target on Monday (27.2g) and Tuesday (25.3g), but within acceptable range.
+- Calories and fiber are adequate throughout the week.
+
+**Allergen Findings:**
+- No milk or egg allergens found in the menu.
+- Some dishes include shellfish, fish, gluten, sesame, or soy.
+
+**Constraint Checks:**
+- The menu is within the budget.
+- No repeat of dishes on consecutive days.
+- Minor protein excess on two days; otherwise, nutritional goals are well met.
+
+No substitutions are needed as there are no milk or egg allergen violations and all budget and structure constraints are met.

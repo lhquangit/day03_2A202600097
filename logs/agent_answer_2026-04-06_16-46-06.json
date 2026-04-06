@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "prompt": "Summarize the menu status.",
+  "provider": "MockLLMProvider",
+  "model": "mock-llm",
+  "max_steps": 2,
+  "final_answer": "Demo runner completed.",
+  "history": [
+    {
+      "step": 1,
+      "llm_response": "Thought: I already know the answer.\nFinal Answer: Demo runner completed."
+    }
+  ],
+  "text_log_path": "/private/var/folders/_x/ltppph895fs7s1whq05_vx0h0000gn/T/pytest-of-quanliver/pytest-9/test_run_agent_session_creates0/agent_run.log",
+  "final_answer_text_path": "logs/agent_answer_2026-04-06_16-46-06.txt"
+}
