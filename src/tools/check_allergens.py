@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+
 from src.tools.models import (
     AllergenCheckData,
     AllergenViolation,
@@ -32,7 +33,7 @@ def check_allergens(payload: CheckAllergensInput) -> CheckAllergensOutput:
     summary = (
         f"Found {len(violations)} allergen violations."
         if violations
-        else "No allergen violations found for the supplied groups."
+        else "No allergen violations found for the supplied groups!"
     )
 
     return CheckAllergensOutput(
